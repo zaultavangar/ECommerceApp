@@ -1,0 +1,37 @@
+spring:
+  mail:
+    host: localhost
+    port: 1025
+    username: zaulT
+    password: myPassword
+    properties:
+      mail:
+        smtp:
+          trust: "*"
+        auth: true
+        starttls:
+          enabled: true
+        connectiontimeout: 5000
+        timeout: 3000
+        writetimeout: 5000
+  data:
+    mongodb:
+      username: zaulT
+      password: myPassword
+      host: localhost
+      port: 27017
+      database: customer
+      authentication-database: admin
+  kafka:
+    consumer:
+      bootstrap-servers: localhost:9092
+      group-id: paymentGroup,orderGroup
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring.json.trustedPackages: '*'
+        spring.json.type.mapping: orderConfirmation:com.zaultavangar.ecommerce.kafka.order.OrderConfirmation,paymentConfirmation:com.zaultavangar.ecommerce.kafka.payment.PaymentConfirmation
+      auto-offset-reset: earliest
+
+server:
+  port: 8040
