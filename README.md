@@ -4,7 +4,7 @@ This project is a comprehensive implementation of an e-commerce application back
 ## Business Needs
 The application address the needs of a business owner in the e-commerce sector who seeks to:
 - Manage a diverse product line
-- Hanlde customer orders and payments efficiently
+- Handle customer orders and payments efficiently
 - Notify customers of payment statuses via email
 - Enhance overall business operations and scalability through digital solutions
 
@@ -21,9 +21,9 @@ The application address the needs of a business owner in the e-commerce sector w
 - Keycloak: For securing the API Gateway
 
 ## Diagrams
-The following diagrams provide a better idea of the structure/architecture of the system:
+The following diagram provides a better idea of the structure/architecture of the system:
 
-- TODO: fill in later 
+![E-commerce App Microservices Architecture](resources/Microservices_Architecture.png)
 
 ## Modules
 ### Config Server

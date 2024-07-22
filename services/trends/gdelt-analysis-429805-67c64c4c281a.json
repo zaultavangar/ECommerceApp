@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gdelt-analysis-429805",
+  "private_key_id": "67c64c4c281aeec5604a5cb8012b2bba1eccba5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCmjIk9djQaxIFo\nbMpbXrKLvcTic65kqx2jCcQGoLkGpQzPxJ59QnkZSPIetydUHTqxqJpG4Avlsl05\nDxPi4gyaKFz0lCb2dSEci6gWTCrmQ/iMWuBAqstR0Oo6ghTVTvoaoX2qYmw2dxYu\nX2XLkWxT848lIXHQ1UZ263COQlS5ZffC+vOv8GyrKxBh3EJfqVPViyl71a99/Tws\nPJjYYp/dMuSsxSLaznkZ7ASqcDIl3hOxeyDxB9Wi50jX3Qwq/xYpRtfXJvWGILkr\nsInH99I6TboxiDGf7cvr+Ju7rYZQGl3CakDljcpHGUa/ZeZonyRCJUBOGO8YvqbL\ndKyHD3AxAgMBAAECggEAUJrXmP1qPkI4dzefwBTWyLbxYL+n+WSvlUaWrrZ+le6v\ngqagJfNT9J7PP3pY+GalD3KQKBkq6OIoKANaFoZcnwdF5cEGEmWhvtUAZro6UPM4\niYU531JJ0LERi3uFZa8xcE4UKbA0uy9rdsoI1DrveLn533iOQwnVbpyH/vGvW4Js\nRDyISgwCYuuWLtPq1p5+bwrMxaiDY0/VXdZ4/xwC4UwWensCYyrElpecosnf9lZ0\nCaAgwBkocQwf3wKLHqnUgnWI06DZERjkebo0aJTOjT506GgjMKWfIahItMtwR1b4\nGt7kCnx6Nymlv3tgsOqfzK/gapYmb+XKc2/Jj5UMWQKBgQDQUUYOAjQSkW2ImgO/\nHTUryq0vIvYwHrZB0d+c5qRjA7nUlBqNfVCDKnoK024wRunP65QcwZhKQeQtyAgl\nD+fB8RtcIGGUPTU+zKtrwIt3rIDwH6v+27XmZB91SLye/wvLAXNxcuCFZ6dhg8dp\nzprK8r/kbjGnJaCchFyhjv12xwKBgQDMq8OM07dP5CHUVwr54novZBNMGp49+ze7\n8x5gtScx2Jfpm89lnXA1nybrsi7otBO08h1dQaUZn3If7XpDURhu7rjlKXK+AaLP\nHO2Y0RhCc/8af+jbahbvl9VzX8+wt51fQuKTpVv8tCcJVYCOvj7oPT0PFQoG7aSu\nDA9NRTWJRwKBgB5fKxqRwavPXivjYJZ1mLH4y8UqkMA1ShdQlQyYJ/Fzsp1GtpRY\nZ+unvsFjUBZj0GULEL4cj6qL7sup9V4J8p05HOcSpYdqYR/10SxVlz/se6QGyhnP\nSLb9dASyhSWdQ8fmP0GUIR3yHdo+z00i3TinqciRNFYNS1xmg+beJSAzAn9liNB6\nDI3kFEi0DnpjfPcgi4UHPC1EklwT4Ygwca4ADHNQcPtybag88bddNggPaUZdfb8T\nhH1jOLZlIGqG+rQkVEllZiqGGEmsda1pIlHmpaTogIwETZ0TPz+k/OMLyAtKNuQw\nWthHhRfYiZI9PiP3Emo4ETfoN/x6W4E71Bm7AoGAIoute++qKt0xGjoo1/NvnAC+\nbI2jCTfwZy3ut5VhHWUNyGF8CviAlTIU/LxMkSiGIiMWHcCpT3mgW1idN4ELMpoF\n6NjZc32VvDNVT+bj3hn+AAGgRIZUn3TQekVGwDrWBp36kYm0m4MEnvE2oemc0jj4\nQmQLQfiwkhqUpmhFLK4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-trends@gdelt-analysis-429805.iam.gserviceaccount.com",
+  "client_id": "106714714731255077573",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-trends%40gdelt-analysis-429805.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
